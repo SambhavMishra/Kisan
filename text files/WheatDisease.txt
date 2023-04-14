@@ -1,0 +1,65 @@
+Wheat Disease Information
+
+Fusarium Head Blight
+
+Common Name
+Fusarium Head Blight, Scab or Tombstone
+
+Scientific Name
+F. graminearum or Fg
+
+Impact
+Fusarium head blight is caused by several species of the fungal genus Fusarium. Fusarium graminearum (F. graminearum or Fg) is the species that causes the most serious damage to crops. FHB is favored by warm, humid conditions during flowering and early stages of kernel development. FHB affects kernel development, reducing yield and grade. It can also contaminate grain with a fungal toxin (mycotoxin) produced in infected seeds. FHB is favored by warm, humid conditions during flowering and early stages of kernel development.The most common symptom of FHB is premature bleaching or blighting of heads. Visible symptoms can start to appear as soon as 3 weeks after floret infection. FHB in wheat is recognized in the field by premature bleaching of one or more infected spikelets in the cereal plant’s head 
+
+Management
+It is critical to use a combination of agronomic strategies to limit the introduction, escalation and spread of fusarium head blight. 
+Best management practices for FHB include the following:
+crop rotation
+variety selection
+use clean seed
+seed treatment
+increase seeding rate
+irrigation management
+fungicide application
+harvest management (combine adjustment)
+harvest travel speed
+consider harvesting early
+post-harvest management
+storage aeration and drying
+control volunteers
+feed grain storage
+hay and straw management
+
+
+Leaf Rust
+
+Common Name
+Wheat Leaf Rust
+
+Scientific Name 
+Puccinia triticina
+
+Impact 
+In temperate zones it is destructive on winter wheat because the pathogen overwinters. Infections can lead up to 20% yield loss, which is exacerbated by dying leaves, which fertilize the fungus. The pathogen is a Puccinia rust fungus. It is the most prevalent of all the wheat rust diseases, occurring in most wheat-growing regions. It causes serious epidemics in North America, Mexico and South America and is a devastating seasonal disease in India.
+
+Management
+Varietal resistance is important. Fungicides are commonly used. Chemical control with triazole fungicides may be useful for control of infections up to ear emergence but is difficult to justify economically in attacks after this stage. Control often is not as common as prevention through the development of genetically-resilient varieties and the removal of common barberry. Cultivars are the best method of controlling the disease and have been utilized for over 100 years. However, resistance linked to single genes has been made ineffective by the pathogen adapting to new cultures. This is why destruction of alternate hosts is key to control. Early-maturing cultivars as well as spring wheat should be sown as early as possible to avoid peak rust periods. Self-sown wheat (volunteers) should be destroyed so as not to further spread urediniospores at the end of harvest.
+
+Tan Spot
+
+Common Name
+Tan Spot 
+
+Scientific Name 
+Pyrenophora tritici-repentis
+
+Impact
+Tan spot overwinters on standing wheat stubble, straw on the soil surface or partly buried by tillage, and on bales of wheat straw. Spores are produced in the spring and are carried by wind to growing plants. At least 6 hours of wetness are required for infection. Temperatures, ranging between 15-28 degrees C (60-82 degrees F), and periods of dew favor infection. Spores produced on diseased leaves tend to spread during the growing season under periods of wet weather. Tan spots develop on both upper and lower leaves.
+
+Management 
+
+Crop rotation with barley and oats or non-host crops (e.g., canola, flax, corn, potatoes and alfalfa) will reduce disease carryover.
+Use wide row spacing to reduce in-crop humidity. Use adequate but not excessive fertilization to limit the disease.
+Turn under wheat residue to reduce the amount of surface straw that can produce air-borne spores during the growing season.
+Yield increases up to 15% have been reported when a fungicide was applied.
+

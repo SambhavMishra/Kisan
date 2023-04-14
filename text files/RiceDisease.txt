@@ -1,0 +1,138 @@
+Rice Disease Information
+
+
+Bacterial Leaf Blight
+
+Common Name
+Rice bacterial leaf blight; also known as rice leaf blight.
+
+Scientific Name
+Xanthomonas oryzae pv. oryzae. Different strains exist in Japan and the Philippines and, importantly, differences exist between strains in Asia and Africa.
+
+Impact
+Bacterial leaf blight can be devastating if it comes early. Yield losses range from 20% to more than 70% in Southeast Asia and India.
+
+
+Management
+
+BIOSECURITY
+National biosecurity organizations need to ensure that rice seed entering the country originates from crops certified free of bacterial leaf blight and is subject to closed quarantine upon arrival, and further testing for the bacterium causing this disease. Note there are different strains in different parts of the world.
+
+CULTURAL CONTROL
+In low-input farming systems, where resource-limited farmers can hardly ever afford external inputs, control of bacterial leaf blight is mainly through the use of resistant/tolerant varieties in combination with sound management practices, such as good weed control.
+
+Before planting:
+
+Take care when selecting seeds. For farmers who are using their own seed, it is important that they always select from plants uninfected by bacterial leaf blight symptoms.
+
+During growth:
+
+Do not damage seedlings when taking them from the nursery. They should not be pulled from the soil but eased out with roots intact; the leaves should not be clipped.
+Be careful with fertilizer applications: too much nitrogen increases shoot	and leaf production and creates conditions that promote disease development because of higher humidity. A suggested amount is 80-100 kg N/ha, depending on local conditions.
+Ensure good drainage of fields (and nurseries). Most varieties are not able to withstand flooding for more than a week, and floodwater spreads the bacterial leaf blight between plants.
+
+Keep the field clean of weeds, especially species of Leersia which are considered to be the main weed host of bacterial leaf blight.
+
+After harvest:
+Plough land to bury rice stubble, straw, ratoon plants and volunteer seedlings. Note that the bacteria causing this disease do not live long in the soil.
+
+Allow fallow fields to dry to destroy the bacterium in the soil and in plant remains.
+
+RESISTANT VARIETIES
+
+Resistant varieties are available in Southeast Asia: PSB Rc82 is a standard variety with resistance; Macassane, has been shown to have improved bacterial leaf blight resistance and is being used in Mozambique, and two IRRI varieties, IR22 and IR 54, are resistant and moderately resistant, respectively, in Tanzania. Several NERICA hybrids from AfricaRice have been tested and found to have resistance. Check whether these are available locally.
+
+CHEMICAL CONTROL
+Chemical treatments, such as applications of copper compounds or antibiotics, are costly and have NOT been shown to be effective.
+
+
+Blast 
+Common Name
+Rice blast
+
+Scientific Name
+Magnaporthe oryzae. Previously, Magnaporthe grisea. Pyricularia oryzae is the asexual name.
+
+
+Impact
+Blast is a major disease of rice caused by a fungus. It attacks leaves, stems and flowers, killing plants up to tillering or reducing grain yield and quality on plants that reach maturity. One estimate puts the loss as the equivalent of feeding 60 million people with rice a year. However, impact varies greatly with cropping systems, varieties and management practices. Where rice is grown throughout the year, spores are always present giving the potential for major epidemics. By contrast, the impact is less when rice is rotated with root crops, or intercropped with non-hosts, such as sorghum, maize, cassava and vegetables.
+The disease is particularly serious in areas of frequent and prolonged showers and temperatures in the range of 24-28°C. This is because the leaves need to be wet for 6-8 hours for spore germination. High humidity, close to 100%, is needed for infection and spore formation. In upland areas, conditions are favorable to the disease because differences between day and night temperatures cause dew to form on the leaves and the overall temperatures are cooler. By contrast, in lowland tropical areas, leaf infection is less, but blast is still serious in seedling nurseries and on panicles.
+
+Management
+An IPM approach is needed to manage this serious disease. It is controlled by using tolerant or resistant varieties, dividing nitrogen fertilizer into several splits, avoiding water stressed plants, eliminating crop residues and by applying seed treatments if fungicides are affordable and available.
+
+CULTURAL CONTROL
+
+Although the main method of blast control is the use of resistant varieties, nevertheless, cultural practices help to lessen the disease impact and should always be considered.
+
+Before planting:
+
+Where it is possible to alter the planting date, select a time to avoid flowering coinciding with periods of high humidity, which favors blast disease.
+
+Ideally, neighboring farmers should plant at the same time to avoid spread of blast from older infected crops to those that are younger.
+
+During growth:
+
+Avoid any cultural practices that weakens the plants and makes them more susceptible to blast:
+
+Divide nitrogen applications into two or three splits, rather than applying it all at once.
+Use acceptable plant spacing so that air flows through the crop, and the sun can penetrate the crop to dry the leaves and stems. Transplant seedlings rather than broadcast the seed.
+Avoid water stress, or extended drain periods. Flood the field as often as possible.
+After harvest:
+
+Collect and burn or bury the remains of the crop, including the stubble as soon as possible after harvest.
+Do not plant another crop while the last crop is still in the ground, otherwise spores will easily spread from the old crop to the younger one (see Before planting, above).
+
+RESISTANT VARIETIES
+
+Varieties have been bred that are resistant to the disease, but there is always the possibility that they will succumb to new strains of the fungus.
+
+CHEMICAL CONTROL
+
+Although fungicides are available for controlling blast, expense and availability are major issues for smallholders, and they are rarely used. If required and affordable, use the products mentioned below for seed treatments. They are usually applied at the heading stage.
+
+
+Seed treatments for upland rice:
+
+Treat seed with fungicide, 1-2 days before sowing, to reduce seed-borne infections of blast. Use protectants, e.g., captan or mancozeb, or systemic products, e.g., pyroquilon, azoles and strobilurins.
+Check the registration of these products and their availability.
+
+
+Brownspot:
+
+Common Name
+Rice brown leaf spot. It is also known as glume blotch.
+
+Scientific Name
+Cochiobolus miyabeanus. It is also known by its asexual name, Bipolaris oryzae.
+
+Impact
+
+It is not considered a serious disease, especially when compared to rice blast. However, IRRI calculates that losses of 5% yield from this fungus occur throughout South and Southeast Asia annually, with local losses exceeding 40%. The losses are caused by a combination of seedling death and loss in quality and weight from seed infections. There appears to be a correlation between impact and soil nutrient deficiency.
+The disease is most severe when humidity is high, over 85%, for a few days with light rains, heavy dews, and temperature between 20-30°C.
+Spread occurs over short distances as spores in the wind. Infected seed allows spread over longer distances. Survival occurs in infected seed, on volunteer rice, rice debris, and wild grasses.
+
+Management
+CULTURAL CONTROL
+
+Before planting:
+
+Treat seed with hot water: 53-54°C for 10-12 minutes.
+
+During growth:
+
+Ensure that plants have correct nutrition: apply fertilizer at recommended rates.
+
+After harvest:
+
+Collect straw and other debris after harvest and burn it with the stubble, or plough everything into the soil.
+
+
+RESISTANT VARIETIES
+Use resistant varieties. Check with local agriculture extension staff for those that are appropriate in your region.
+
+CHEMICAL CONTROL
+
+Chemical control should only be considered after investigating the possibility of nutritional deficiencies and the availability of resistant varieties. IRRI recommends seed treatments with iprodione, strobilburins (azoxystrobin or trifloxystrobin), azole (propiconazole), or carbendazim fungicides. Foliar treatments at tillering and at late boot stage (extension of flag leaf) have also been recommended but are effective only if combined with a seed treatment.
+
+
